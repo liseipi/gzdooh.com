@@ -33,7 +33,8 @@
                     solution and appl-ication service providers.
                   </div>
                   <div
-                    style="height:75px; background-image:url('@/assets/images/email.gif'); background-repeat:no-repeat; padding-top:50px; padding-left:10px;">
+                    :style="{ backgroundImage: `url(${email})` }"
+                    style="height:75px;  background-repeat:no-repeat; padding-top:50px; padding-left:10px;">
                     <a href="mailto:gzduohe@126.com">gzduohe@126.com</a></div>
                 </div>
               </td>
@@ -66,7 +67,11 @@
 </template>
 
 <script>
+import email from '~/assets/images/email.gif'
 export default {
-  name: 'IndexPage'
+  name: 'IndexPage',
+  data() {
+    return { email }
+  }
 }
 </script>
