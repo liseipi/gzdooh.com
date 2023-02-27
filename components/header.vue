@@ -9,9 +9,9 @@
       <ul>
         <li><NuxtLink to="/">关于铎禾</NuxtLink></li>
         <li><NuxtLink to="/news/">新闻动态</NuxtLink></li>
-        <li><a href="./products.asp">产品介绍</a></li>
-        <li><a href="./case.asp">典型业绩</a></li>
-        <li><a href="./contact.asp">联系我们</a></li>
+        <li><NuxtLink to="/products/">产品介绍</NuxtLink></li>
+        <li><NuxtLink to="/case/">典型业绩</NuxtLink></li>
+        <li><NuxtLink to="/contact/">联系我们</NuxtLink></li>
       </ul>
     </div>
   </div>

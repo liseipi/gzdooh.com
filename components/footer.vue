@@ -4,15 +4,15 @@
       <img src="@/assets/images/bot_px.gif" width="766" style="vertical-align: top;" alt="">
     </div>
     <div class="link">
-      <a href="index.asp" class="blue">关于铎禾</a>
+      <NuxtLink to="/" class="blue">关于铎禾</NuxtLink>
       |
-      <a href="news.asp" class="blue">新闻动态</a>
+      <NuxtLink to="/news/" class="blue">新闻动态</NuxtLink>
       |
-      <a href="products.asp" class="blue">产品介绍</a>
+      <NuxtLink to="/products/" class="blue">产品介绍</NuxtLink>
       |
-      <a href="case.asp" class="blue">典型业绩</a>
+      <NuxtLink to="/case/" class="blue">典型业绩</NuxtLink>
       |
-      <a href="contact.asp" class="blue">联系我们</a>
+      <NuxtLink to="/contact/" class="blue">联系我们</NuxtLink>
 
     </div>
     <div class="copyright">

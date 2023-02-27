@@ -8,18 +8,18 @@
             <div style="text-align:center; margin:5px 10px; font-weight:bold;">{{newsData2[id].title}}</div>
             <div style="height:2px; background-color:#C9C9C9 "><img src="images/spacer.gif" width="1" height="1"></div>
             <div style="margin:10px; line-height:18px;" v-html="newsData2[id].content"></div>
-            <div style="height:1px; background-image:url(images/dot.gif) "><img src="images/spacer.gif" width="1" height="1"></div>
+            <div style="height:1px;"><img src="images/spacer.gif" width="1" height="1"></div>
           </div>
         </td>
         <td width="45" height="337" alt="" valign="top"><div align="right"><img src="@/assets/images/corner_left.jpg" width="35" height="56"></div></td>
-        <td width="234" height="100%" alt="" valign="top" background="@/assets/images/px1.jpg">
+        <td width="234" height="100%" alt="" valign="top">
           <table width="234" height="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td valign="top" height="100%" style="padding-top:14px; padding-bottom:30px ">	<div style="margin-left:28px; margin-right:30px; height: 260px; ">
                 <img src="@/assets/images/2txt4.jpg" width="12" height="10"><span class="r_title">新闻中心\News</span><br>
                 <br style="line-height:5px ">
                 <div style="height:2px; background-color:#FF9600 "><img src="@/assets/images/spacer.gif" width="1" height="1"></div>
-                <div style="height:1px; background-image:url(@/assets/images/dot.gif) "><img src="@/assets/images/spacer.gif" width="1" height="1"></div>
+                <div style="height:1px;"><img src="@/assets/images/spacer.gif" width="1" height="1"></div>
                 <div><div style="margin:15px 0px;">
                   <strong>Lorem ipsum consectetur</strong><br>
                   aliqua minim veniam exercitat dolore fugiat elit sed pariatur eiusmod.</div>

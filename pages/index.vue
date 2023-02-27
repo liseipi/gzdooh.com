@@ -15,7 +15,7 @@
         <TD WIDTH=36 HEIGHT=337 ALT="" valign="top">
           <div align="right"><img src="@/assets/images/corner_left.jpg" width="35" height="56"></div>
         </TD>
-        <TD WIDTH=234 HEIGHT=100% ALT="" valign="top" background="@/assets/images/px1.jpg">
+        <TD WIDTH=234 HEIGHT=100% ALT="" valign="top">
           <table width="234" height="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td valign="top" height="100%" style="padding-top:14px; padding-bottom:30px ">
