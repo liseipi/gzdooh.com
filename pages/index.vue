@@ -40,21 +40,15 @@
               </td>
             </tr>
             <tr>
-              <td valign="top"><img src="@/assets/images/px2.jpg" width="234" height="4"></td>
+              <td valign="top"><img src="@/assets/images/px2.jpg" width="234" height="4" style="vertical-align: bottom;"></td>
             </tr>
             <tr>
-              <form>
-                <td valign="top" height="79" background="@/assets/images/px3.jpg"
-                    style="padding-top:12px; padding-bottom:6px ">
-                  <div style="margin-left:25px; margin-right:20px ">
-                    <img src="@/assets/images/news.jpg" width="110" height="10"><br>
-                    <br style="line-height:8px ">
-                    <input type="text" style="width:139px; height:20px; font-family:tahoma; font-size:11px ">
-                    <input name="" type="image" src="@/assets/images/ok.jpg" align="absmiddle" style="margin-left:5px " width="41" height="25"><br>
-                    <br style="line-height:3px ">
-                    <a href="#" class="blue u" id="a">Unsubscribe</a></div>
+                <td valign="top" height="79">
+                  <div style="display: flex; align-items: center;justify-content: center; height: 80px; background-color: #ddd;">
+                    <input type="text" style="width:139px; padding: 2px 0;">
+                    <img src="@/assets/images/ok.jpg" alt="" style="margin-left: 5px;">
+                  </div>
                 </td>
-              </form>
             </tr>
           </table>
         </TD>

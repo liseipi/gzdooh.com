@@ -38,23 +38,25 @@ ul, li {
   top: 0;
 }
 .topnav .bgimg .banner-img{
+  z-index: 10;
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
 }
 
 .topnav .nav {
   position: absolute;
-  left: 50%;
-  top: 0%;
-  transform: translate(-50%,0%);
-  -webkit-transform: translate(-50%,0%);
-  -ms-transform: translate(-50%,0%);
+  z-index: 20;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
   width: 766px;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .topnav .nav ul {
@@ -80,11 +82,9 @@ ul, li {
 }
 
 TD {
-  FONT-SIZE: 11px;
+  FONT-SIZE: 12px;
   COLOR: #6d6d6d;
-  LINE-HEIGHT: 13px;
-  FONT-FAMILY: tahoma;
-  TEXT-ALIGN: left
+  LINE-HEIGHT: 14px;
 }
 
 A {
