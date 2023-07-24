@@ -4,12 +4,12 @@
       <TR>
         <TD width="5">&nbsp;</TD>
         <TD WIDTH=455 ALT="" valign="top" style="padding-top:29px; padding-bottom:15px ">
-          <div style=" line-height:20px; color:#666666;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广州铎禾电力设备有限公司是一家开发和销售并引进国外先进电力产品为主的中型企业，是广东省高科技经营理事单位。公司专业从事国际领先水平的电力仪器仪表及工业监控设备的研发、设计、经营和销售,
+          <div style=" line-height:20px; color:#666666;">广州铎禾电力设备有限公司是一家开发和销售并引进国外先进电力产品为主的中型企业。公司专业从事国际领先水平的电力仪器仪表及工业监控设备的研发、设计、经营和销售,
             并提供相关的技术咨询、培训、支持和服务。公司始终着眼于国际领先科技，以国内外前沿技术为起点，为国内电力、石化、冶金及钢铁制造生产企业提供高品质的产品和服务。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
             <br>
             <span style="line-height:14px; color:#999999;">
               <img src="@/assets/images/about1.gif" width="234" height="226" style="float:left; margin-right:15px;">
-              Electric Power Equipment Co., Ltd. Guangzhou Wo Duo is a development and sales and the introduction of foreign advanced power products in small and medium enterprises, director of the Guangzhou high-tech business units. Company specializes in the international advanced level of power monitoring equipment, instrumentation and industrial R & D, design, operations and sales, and provide technical advice, training, support and services. We always focus on the international leading technology, cutting-edge technology at home and abroad as a starting point for the domestic electric power, petrochemical, metallurgical and steel manufacturing enterprises to provide high quality products and services.</span>
+              Guangzhou Duohe Power Equipment Co., Ltd. is a medium-sized enterprise mainly engaged in the development, sales and introduction of foreign advanced power products. The company is specialized in the R&D, design, operation and sales of internationally leading power instruments and meters and industrial monitoring equipment, and provides related technical consultation, training, support and services. The company always focuses on international leading technology, starting from domestic and foreign cutting-edge technology, and provides high-quality products and services for domestic electric power, petrochemical, metallurgy and steel manufacturing and production enterprises.</span>
           </div>
         </TD>
         <TD WIDTH=36 HEIGHT=337 ALT="" valign="top">
@@ -40,15 +40,17 @@
               </td>
             </tr>
             <tr>
-              <td valign="top"><img src="@/assets/images/px2.jpg" width="234" height="4" style="vertical-align: bottom;"></td>
+              <td valign="top"><img src="@/assets/images/px2.jpg" width="234" height="4"
+                                    style="vertical-align: bottom;"></td>
             </tr>
             <tr>
-                <td valign="top" height="79">
-                  <div style="display: flex; align-items: center;justify-content: center; height: 80px; background-color: #ddd;">
-                    <input type="text" style="width:139px; padding: 2px 0;">
-                    <img src="@/assets/images/ok.jpg" alt="" style="margin-left: 5px;">
-                  </div>
-                </td>
+              <td valign="top" height="79">
+                <div
+                  style="display: flex; align-items: center;justify-content: center; height: 80px; background-color: #ddd;">
+                  <input type="text" style="width:139px; padding: 2px 0;">
+                  <img src="@/assets/images/ok.jpg" alt="" style="margin-left: 5px;">
+                </div>
+              </td>
             </tr>
           </table>
         </TD>
@@ -62,10 +64,11 @@
 
 <script>
 import email from '~/assets/images/email.gif'
+
 export default {
   name: 'IndexPage',
   data() {
-    return { email }
+    return {email}
   }
 }
 </script>

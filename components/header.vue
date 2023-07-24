@@ -19,10 +19,6 @@
 
 <script>
 export default {
-  name: "header"
+  name: "page-header"
 }
 </script>
-
-<style scoped>
-
-</style>

@@ -5,19 +5,6 @@
         <td></td>
         <td width="425" height="337" alt="" valign="top" style="padding-top:29px; padding-bottom:15px ">
           <div>
-            <div class="r_title" style="height:15px;"><span style="float:left;">企业动态</span><span style="float:right;">
-              <a href="/news/qydt/" class="orange"><strong>more</strong></a></span>
-            </div>
-            <div style="height:2px; background-color:#C9C9C9 "></div>
-            <div style="margin:10px 0px;">
-              <div v-for="(news, index) in newsData1.slice(0,5)" style="line-height:22px;">
-                <img src="@/assets/images/arr.gif" style="margin-right:8px; margin-top:-5px;">
-                <NuxtLink :to="{path: `/news/qydt/${news.id}`}">{{ news.title }}</NuxtLink>
-              </div>
-            </div>
-          </div>
-
-          <div>
             <div class="r_title" style="height:18px;"><span style="float:left;">行业新闻</span><span style="float:right;">
               <a href="/news/hyxw/" class="orange"><strong>more</strong></a></span></div>
 
