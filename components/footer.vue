@@ -16,7 +16,7 @@
 
     </div>
     <div class="copyright">
-      <a href="#" class="gray">Copyright</a > &copy; <a href="http://www.miitbeian.gov.cn/" target="_blank" class="grays">粤ICP备12033595号</a> Companyname, 2011 - {{new Date().getFullYear()}}	DOOH版权所有
+      <a href="#" class="gray">Copyright</a > &copy; <a href="https://beian.miit.gov.cn/" target="_blank" class="grays">粤ICP备12033595号-5</a> Companyname, 2011 - {{new Date().getFullYear()}}	DOOH版权所有
     </div>
   </div>
 </template>
