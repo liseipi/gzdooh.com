@@ -22,7 +22,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-      { src: 'https://hm.baidu.com/hm.js?1b7db9049bfb74e977a7c5edb4711243' }
+      { src: 'https://hm.baidu.com/hm.js?a5b88a8eea0e479f6c196b9e586c022b' }
     ]
   },
 
