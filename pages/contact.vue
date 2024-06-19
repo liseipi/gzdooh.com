@@ -53,12 +53,13 @@
                 <div style="height:2px; background-color:#FF9600 "><img src="@/assets/images/spacer.gif" width="1" height="1"></div>
                 <br style="line-height:18px ">
                 <strong class="blue">Guangzhou DOOH Electric Power Equipment Co., Ltd. </strong><br>
+                <br style="line-height:3px ">
                 TEL: + 189 2270 7603<br>
 <!--                FAX:<img src="@/assets/images/spacer.gif" width="15" height="1">+ 86 20 38219534<br>-->
 <!--                Technical Support:+ 189 2270 7603<br>-->
                 E-mail：<a href="mailto:gzduohe@126.com">gzduohe@126.com</a><br>
                 Zip：<a href="#" class="gray">511430</a><br>
-                <span style="line-height:15px;">Address:<img src="@/assets/images/spacer.gif" width="15" height="1">Panyu District, Guangzhou City Shi Zhennan Puyan Shalu Li River Business Center, Building 220A A<br><br></span>
+                <span style="line-height:15px;">Address: 10th Floor, Heyue Building, Panyu District, Guangzhou<br><br></span>
                 <br style="line-height:3px;">
                 <strong>广州铎禾电力设备有限公司</strong><br>
                 <br style="line-height:3px ">
@@ -67,7 +68,7 @@
 <!--                技术支持:<img src="@/assets/images/spacer.gif" width="15" height="1">+ 189 2270 7603<br>-->
                 邮箱：<a href="mailto:gzduohe@126.com">gzduohe@126.com</a><br>
                 邮编：<a href="#" class="gray">511430</a><br>
-                <span style="line-height:20px;">地址:<img src="@/assets/images/spacer.gif" width="15" height="1">广州市番禺区和悦大厦10楼<br></span>
+                <span style="line-height:20px;">地址: 广州市番禺区和悦大厦10楼<br></span>
                 <br style="line-height:3px ">
               </div>
               </td>
