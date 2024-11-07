@@ -23,8 +23,8 @@
                 <div><div style="margin:15px 0px;">
                   <strong>Lorem ipsum consectetur</strong><br>
                   aliqua minim veniam exercitat dolore fugiat elit sed pariatur eiusmod.</div>
-                  <div style="line-height:20px; height:20px;"><img src="@/assets/images/arr.gif" align="absmiddle" style="margin-right:4px " width="3" height="3"><NuxtLink to="/news/qydt/" class="u" id="a">企业动态</NuxtLink></div>
-                  <div style="line-height:20px; height:20px;"><img src="@/assets/images/arr.gif" align="absmiddle" style="margin-right:4px " width="3" height="3"><NuxtLink to="/news/hyxw/" class="u" id="a">行业新闻</NuxtLink></div>
+<!--                  <div style="line-height:20px; height:20px;"><img src="@/assets/images/arr.gif" align="absmiddle" style="margin-right:4px " width="3" height="3"><NuxtLink to="/news/qydt/" class="u" id="a">企业动态</NuxtLink></div>-->
+<!--                  <div style="line-height:20px; height:20px;"><img src="@/assets/images/arr.gif" align="absmiddle" style="margin-right:4px " width="3" height="3"><NuxtLink to="/news/hyxw/" class="u" id="a">行业新闻</NuxtLink></div>-->
                 </div>
               </div>	</td>
             </tr>
