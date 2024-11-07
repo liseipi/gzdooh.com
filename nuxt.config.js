@@ -78,5 +78,8 @@ export default {
       font: ({ isDev }) => isDev ? '[path][name].[ext]' : 'fonts/[name].[ext]',
       video: ({ isDev }) => isDev ? '[path][name].[ext]' : 'videos/[name].[ext]'
     },
+    loaders: {
+      imgUrl: { limit: 100 }, // 小图片转base64
+    }
   }
 }
