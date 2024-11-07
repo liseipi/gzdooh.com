@@ -8,12 +8,12 @@
             并提供相关的技术咨询、培训、支持和服务。公司始终着眼于国际领先科技，以国内外前沿技术为起点，为国内电力、石化、冶金及钢铁制造生产企业提供高品质的产品和服务。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
             <br>
             <span style="line-height:14px; color:#999999;">
-              <img src="@/assets/images/about1.gif" width="234" height="226" style="float:left; margin-right:15px;">
+              <img src="~/assets/images/about1.gif" width="234" height="226" style="float:left; margin-right:15px;">
               Guangzhou Duohe Power Equipment Co., Ltd. is a medium-sized enterprise mainly engaged in the development, sales and introduction of foreign advanced power products. The company is specialized in the R&D, design, operation and sales of internationally leading power instruments and meters and industrial monitoring equipment, and provides related technical consultation, training, support and services. The company always focuses on international leading technology, starting from domestic and foreign cutting-edge technology, and provides high-quality products and services for domestic electric power, petrochemical, metallurgy and steel manufacturing and production enterprises.</span>
           </div>
         </TD>
         <TD WIDTH=36 HEIGHT=337 ALT="" valign="top">
-          <div align="right"><img src="@/assets/images/corner_left.jpg" width="35" height="56"></div>
+          <div align="right"><img src="~/assets/images/corner_left.jpg" width="35" height="56"></div>
         </TD>
         <TD WIDTH=234 HEIGHT=100% ALT="" valign="top">
           <table width="234" height="100%" border="0" cellspacing="0" cellpadding="0">
@@ -22,7 +22,7 @@
                 <div style="margin-left:28px; margin-right:30px "><span class="r_title">关于铎禾</span><br>
                   <br style="line-height:5px ">
                   <div style="height:2px; background-color:#FF9600 ">
-                    <img src="@/assets/images/spacer.gif" width="1" height="1"></div>
+                    <img src="~/assets/images/spacer.gif" width="1" height="1"></div>
                   <div style="margin:10px 0px; line-height:18px;  padding-bottom:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;致力于成为全球最专业的电力检测设备总体解决方案的提供和应用服务商。
 
                     为社会提供安全保障；为客户提供满意服务、创造价值的同时，企业赢得利益、获得发展！
@@ -40,7 +40,7 @@
               </td>
             </tr>
             <tr>
-              <td valign="top"><img src="@/assets/images/px2.jpg" width="234" height="4"
+              <td valign="top"><img src="~/assets/images/px2.jpg" width="234" height="4"
                                     style="vertical-align: bottom;"></td>
             </tr>
             <tr>
@@ -48,14 +48,14 @@
                 <div
                   style="display: flex; align-items: center;justify-content: center; height: 80px; background-color: #ddd;">
                   <input type="text" style="width:139px; padding: 2px 0;">
-                  <img src="@/assets/images/ok.jpg" alt="" style="margin-left: 5px;">
+                  <img src="~/assets/images/ok.jpg" alt="" style="margin-left: 5px;">
                 </div>
               </td>
             </tr>
           </table>
         </TD>
         <TD WIDTH=31 HEIGHT=337 ALT="" valign="top">
-          <img src="@/assets/images/corner_right.jpg" width="23" height="56">
+          <img src="~/assets/images/corner_right.jpg" width="23" height="56">
         </TD>
       </TR>
     </TABLE>

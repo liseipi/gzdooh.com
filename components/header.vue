@@ -3,7 +3,7 @@
     <div class="bgimg">
       <div class="bgimg-l"></div>
       <div class="bgimg-r"></div>
-      <img class="banner-img" width="766" height="267" src="@/assets/images/header.jpg" alt="">
+      <img class="banner-img" width="766" height="267" src="~/assets/images/header.jpg" alt="">
     </div>
     <div class="nav">
       <ul>

@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     <div class="footer-bg">
-      <img src="@/assets/images/bot_px.gif" width="766" style="vertical-align: top;" alt="">
+      <img src="~/assets/images/bot_px.gif" width="766" style="vertical-align: top;" alt="">
     </div>
     <div class="link">
       <NuxtLink to="/" class="blue">关于铎禾</NuxtLink>
